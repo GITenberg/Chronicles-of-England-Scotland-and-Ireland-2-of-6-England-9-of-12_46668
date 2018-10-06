@@ -26,5 +26,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Chronicles of England, Scotland and Ireland (2 of 6): England (9 of 12)'
 url: http://www.gutenberg.org/ebooks/46668
